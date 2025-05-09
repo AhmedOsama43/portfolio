@@ -1,4 +1,11 @@
 import { InlineCode } from "@/once-ui/components";
+export const newsletter = {
+  title: "Subscribe to our Newsletter",
+  description: "Get the latest updates, tutorials, and articles delivered to your inbox every week.",
+  subscribeUrl: "https://yourdomain.com/subscribe",
+  buttonText: "Join Now"
+};
+
 
 const person = {
   firstName: "Ahmed",
